@@ -2,7 +2,7 @@ body
 {
   padding: 0px;
   margin: 0px;
-  background-color: 8ee4af;
+  //background-color: 8ee4af;
 }
 div
 {
@@ -16,139 +16,20 @@ a
   color:white;
 }
 
-#page1
+#logoBox
 {
-    width:100%;
-    height:650px;
-}
-
-
-#nav
-{
-  width: 100%;
-  height:100Px;
-  
-
-
-}
-
-#logo
-{
-  height:100%;
-  width: 30%;
-  display: inline;
-  float:left;
-}
-
-#logoimagebox
-{
-  height: 100%;
-  width: 50%;
-  margin-left:50px;
-}
-
-#logobox
-{
-  width:200px;
+  position: absolute;
+  top:0px;
+  left: 40px;
+  width: 200px;
   height: 100px;
-
+  background-color:;
   z-index: 1;
-  border-bottom-left-radius:20px;
-  border-bottom-right-radius:20px;
-  background-image: -webkit-gradient( linear , left top, left bottom, color-stop(20%, #ad9a9c), color-stop(100%, #d4d6d7) )
 }
 
-#logoimage
-{
-  height: 100%;
-  width: 100%;
-}
-
-#navlinks
-{
-  height: 100%;
-  width: 50%;
-  display: inline;
-  float: left;
-  background-color: ;
-}
-
-.navmenu
-{
-  height: 50%;
-  display: inline;
-  float: left;
-  width: 20%;
-  margin-top:25px;
-  background-color: ;
-  line-height: 50px;
-  text-align: right;
-}
-
-
-#navHyperLink
-{
-  text-decoration: none;
-  color:#05386b;
-}
-
-
-
-
-#loginsignup
-{
-  height: 100%;
-  width: 20%;
-  display: inline;
-  float: right;
-}
-
-
-#slider
+#navBar
 {
   width: 100%;
-  height: 420px;
-  z-index: 10;
-}
-
-#threecircles
-{
-  width: 100%;
-  height: 500px;
-  padding-top: 50px;
-}
-
-
-#leftcircle
-{
-  width: 200px;
-  margin-left: 15%;
-  height: 200px;
-  border-radius: 200px;
-  background-color: black;
-  display: inline;
-  float: left;
-}
-
-#middlecircle
-{
-  width: 200px;
-  margin-left: 10%;
-  height: 200px;
-  border-radius: 200px;
-  background-color: black;
-  display: inline;
-  float: left;
-}
-
-#rightcircle
-{
-  width: 200px;
-  margin-left: 10%;
-
-  height: 200px;
-  border-radius: 200px;
-  background-color: black;
-  display: inline;
-  float: left;
+  height: 50px;
+  background-color: grey;
 }
