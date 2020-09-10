@@ -33,3 +33,56 @@ a
   height: 50px;
   background-color: grey;
 }
+
+
+#searchBox
+{
+  width: 100%;
+  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#marginSmallVertical
+{
+  height: 10px;
+  width: 100%;
+}
+
+
+#marginSmallHorizontal
+{
+  height: 100%;
+  width: 20px;
+}
+
+
+#marginNormalVertical
+{
+  height: 20px;
+  width: 100%;
+}
+
+
+#marginNormalHorizontal
+{
+  height: 100%;
+  width: 50px;
+}
