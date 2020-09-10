@@ -38,11 +38,18 @@ a
 #searchBox
 {
   width: 100%;
-  
+
 
 }
 
-
+#searchTextBox
+{
+  width: 50%;
+  height: 60px;
+  display: inline;
+  float: left;
+  background-color: pink;
+}
 
 
 
