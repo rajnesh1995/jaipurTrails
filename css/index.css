@@ -33,3 +33,197 @@ a
   height: 50px;
   background-color: grey;
 }
+
+
+
+
+#WelcomeNote2Box
+{
+  width: 100%;
+  //background-color: green;
+  height: 500px;
+  padding-top :30px;
+  padding-bottom: 30px;
+}
+
+#WelcomeNote2BoxInner
+{
+  width: 80%;
+  margin: auto;
+  //background-color: white;
+  height: 100%;
+}
+
+
+
+#WelcomeNote2BoxLeft
+{
+  width: 50%;
+  height: 100%;
+  display: inline;
+  float: left;
+  //background-color: pink;
+
+}
+
+#WelcomeNote2BoxRight
+{
+  width: 50%;
+  height: 100%;
+  display: inline;
+  float: left;
+
+}
+
+#WelcomeNote2BoxPicture
+{
+
+}
+
+
+#WelcomeNote2BoxText
+{
+  width: 400px;
+  height: 300px;
+  margin-left: auto;
+  //background-color: pink;
+  position: relative;
+  top:50%;
+  left:50%;
+  transform: translate(-85%,-50%);
+  font-size: 60px;
+  text-align: center;
+}
+
+
+#alignVerticalText
+{
+  position: relative;
+  top: 50%;
+  transform: translate(0%,-50%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#searchBox
+{
+  width: 100%;
+  padding-top:10px;
+  padding-bottom: 10px;
+
+}
+
+#searchBoxInner
+{
+  width:50%;
+  //background-color:pink;
+  position: absolute;
+  left:50%;
+  transform: translate(-50%,0%);
+
+}
+
+#searchInputBox
+{
+  width:500px;
+  height: 40px;
+  display: inline;
+  float: left;
+  background-color: green;
+}
+
+#searchButton
+{
+  padding-left: 10px;
+  height: 40px;
+  display: inline;
+  float: left;
+}
+
+#searchTrail
+{
+  width: 100%;
+  height: 100%;
+  font-size: 20px;
+}
+
+#searchClickButton
+{
+  width: 150px;
+  height: 40px;
+  background-color: gray;
+  border-radius: 2px;
+  line-height: 40px;
+  text-align: center;
+}
+
+
+#testPage
+{
+  height: 400px;
+  width: 100%;
+  //background-color: pink;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#marginSmallVertical
+{
+  height: 10px;
+  width: 100%;
+}
+
+
+#marginSmallHorizontal
+{
+  height: 100%;
+  width: 20px;
+}
+
+
+#marginNormalVertical
+{
+  height: 20px;
+  width: 100%;
+}
+
+
+#marginNormalHorizontal
+{
+  height: 100%;
+  width: 50px;
+}
